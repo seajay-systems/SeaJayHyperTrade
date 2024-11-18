@@ -43,7 +43,7 @@
       "interval": "15m",
       "minimum": 15,
       "allowed_amount": 20,
-      "trading_enabled": false
+      "trading_enabled": true
     },
     {
       "symbol": "ADAUSDT",
@@ -79,7 +79,7 @@
       "interval": "15m",
       "minimum": 15,
       "allowed_amount": 20,
-      "trading_enabled": false
+      "trading_enabled": true
     },
     {
       "symbol": "MATICUSDT",
@@ -155,13 +155,13 @@
     {
       "symbol": "SOLUSDT",
       "rsi": {
-        "enabled": false,
+        "enabled": true,
         "period": 14,
         "overbought": 70,
         "oversold": 30
       },
       "macd": {
-        "enabled": false,
+        "enabled": true,
         "fast": 12,
         "slow": 26,
         "signal": 9
@@ -170,13 +170,13 @@
     {
       "symbol": "ADAUSDT",
       "rsi": {
-        "enabled": false,
+        "enabled": true,
         "period": 14,
         "overbought": 70,
         "oversold": 30
       },
       "macd": {
-        "enabled": false,
+        "enabled": true,
         "fast": 12,
         "slow": 26,
         "signal": 9
@@ -215,13 +215,13 @@
     {
       "symbol": "DOGEUSDT",
       "rsi": {
-        "enabled": false,
+        "enabled": true,
         "period": 14,
         "overbought": 70,
         "oversold": 30
       },
       "macd": {
-        "enabled": false,
+        "enabled": true,
         "fast": 12,
         "slow": 26,
         "signal": 9
