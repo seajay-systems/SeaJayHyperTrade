@@ -1,6 +1,6 @@
 <p align="center">
   <img width="100px" src="./assets/logo.png">
-  <h1 align="center">SeaJayHyperTrade</h1>
+  <h1 align="center">HyperTrade</h1>
   <p align="center">Ready to deploy, distributed cryptocurrency trading bot.</p>
 </p>
 
